@@ -1,3 +1,4 @@
+[![Test Lint JS](https://github.com/worknonstop/hexlet-ci-app/actions/workflows/tests.yaml/badge.svg)](https://github.com/worknonstop/hexlet-ci-app/actions/workflows/tests.yaml)  
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
